@@ -1,4 +1,4 @@
-FROM registry.centos.org/centos1/centos
+FROM registry.centos.org/centos/centos
 
 #RUN yum install iputils -y
 
